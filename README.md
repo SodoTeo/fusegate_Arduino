@@ -6,9 +6,9 @@ Wisconsin Engineer, James Jeremy Burnham Tinder.*
 
 To automate the Tainer Gateway with Arduino
 the following components are required:
-• Arduino Nano
-• Arduino Ultrasonic Sensor
-• Arduino Servo Motor
-• Power
+- Arduino Nano
+- Arduino Ultrasonic Sensor
+- Arduino Servo Motor
+- Power
 
 ![image](https://drive.google.com/uc?export=view&id=1qS1PaHrx_DWWQU-FKdyqQe_DNZV6AY_f) 
