@@ -1,8 +1,8 @@
 # fusegate_Arduino
 
-The Tainter gateway is a type of radial gateway used in
+*The Tainter gateway is a type of radial gateway used in
 dams to control water flow. It was named after the builder
-Wisconsin Engineer, James Jeremy Burnham Tinder.
+Wisconsin Engineer, James Jeremy Burnham Tinder.*
 
 To automate the Tainer Gateway with Arduino
 the following components are required:
