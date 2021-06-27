@@ -12,6 +12,9 @@ the following components are required:
 - Power
 ---------------------------------------------------------------------------------------------------
 <p align="center">
+  <img src="https://drive.google.com/uc?export=view&id=1qS1PaHrx_DWWQU-FKdyqQe_DNZV6AY_f" />
+</p>
+<p align="center">
 ![image](https://drive.google.com/uc?export=view&id=1qS1PaHrx_DWWQU-FKdyqQe_DNZV6AY_f) 
 </p>
 ---------------------------------------------------------------------------------------------------
